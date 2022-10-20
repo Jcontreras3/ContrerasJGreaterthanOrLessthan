@@ -11,7 +11,7 @@ while (playAgain == "yes")
     {
         Console.WriteLine("Enter first number");
 
-        numberOne = int.TryParse(Console.ReadLine(), out num1);
+        numberOne = Int32.TryParse(Console.ReadLine(), out num1);
         if (numberOne)
         {
             Console.WriteLine($"Your first number: {num1}");
@@ -29,7 +29,7 @@ while (playAgain == "yes")
     {
         Console.WriteLine("Enter second number");
 
-        numberTwo = int.TryParse(Console.ReadLine(), out num2);
+        numberTwo = Int32.TryParse(Console.ReadLine(), out num2);
         if (numberTwo)
         {
             Console.WriteLine($"Your second number: {num2}");
