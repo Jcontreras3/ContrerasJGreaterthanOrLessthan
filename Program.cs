@@ -48,11 +48,11 @@ while (playAgain == "yes")
     {
         Console.WriteLine($"{num1} and {num2} are equal to eachother");
     }
-    if (num1 > num2)
+  else if (num1 > num2)
     {
         Console.WriteLine($"{num1} is greater than {num2}");
     }
-    if (num1 < num2)
+   else if (num1 < num2)
     {
         Console.WriteLine($"{num1} is less than {num2}");
     }
