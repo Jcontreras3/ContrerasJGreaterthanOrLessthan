@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jovan\\GitHub\\JContrerasGreaterThanorLessThan\\JContrerasGreaterThanorLessThan.csproj": {}
+    "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\JContrerasGreaterThanorLessThan\\JContrerasGreaterThanorLessThan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jovan\\GitHub\\JContrerasGreaterThanorLessThan\\JContrerasGreaterThanorLessThan.csproj": {
+    "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\JContrerasGreaterThanorLessThan\\JContrerasGreaterThanorLessThan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jovan\\GitHub\\JContrerasGreaterThanorLessThan\\JContrerasGreaterThanorLessThan.csproj",
+        "projectUniqueName": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\JContrerasGreaterThanorLessThan\\JContrerasGreaterThanorLessThan.csproj",
         "projectName": "JContrerasGreaterThanorLessThan",
-        "projectPath": "C:\\Users\\Jovan\\GitHub\\JContrerasGreaterThanorLessThan\\JContrerasGreaterThanorLessThan.csproj",
-        "packagesPath": "C:\\Users\\Jovan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jovan\\GitHub\\JContrerasGreaterThanorLessThan\\obj\\",
+        "projectPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\JContrerasGreaterThanorLessThan\\JContrerasGreaterThanorLessThan.csproj",
+        "packagesPath": "C:\\Users\\petec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\JContrerasGreaterThanorLessThan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jovan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\petec\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
